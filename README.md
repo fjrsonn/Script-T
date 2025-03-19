@@ -1,6 +1,6 @@
 # Script de Automação para Termux/Linux
 
-Este projeto é um script interativo para automação de ferramentas no Termux/Linux, como **Nmap, SQLmap, Sherlock e MrHolmes**.
+Este projeto é um script interativo, com uma interface, para automação de ferramentas no Termux/Linux, como **Nmap, SQLmap, Sherlock, MrHolmes**, entre outras, incluindo ferramentas próprias, como **Scan de Subdomínios e Scan de Hosts/Proxies**.
 
 ## Funcionalidades
 - Atualização do sistema (`pkg update && pkg upgrade`)
